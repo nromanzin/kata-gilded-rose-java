@@ -17,6 +17,8 @@ Preferred IDE is IntelliJ Idea.
 
 From https://codingdojo.org/kata/gilded-rose/
 
+Solution based on https://gitlab.ippon.fr/twitch/live-coding-fr/-/tree/master/gilded-rose-without-flow-control
+
 A refactoring Kata, bases on existing code.
 
 ### Problem Description
